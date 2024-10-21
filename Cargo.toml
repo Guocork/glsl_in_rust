@@ -1,0 +1,8 @@
+[package]
+name = "glsl_in_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glutin = "0.28"
+gl = "0.14"
